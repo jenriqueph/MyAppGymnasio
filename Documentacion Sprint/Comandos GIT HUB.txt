@@ -1,0 +1,20 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M maingit remote add origin https://github.com/usuarionombre-proyecyo
+.git
+git push -u origin main
+
+Para crear nueva rama:
+git checkout -b nombre-rama
+
+git add .
+
+git commit -m "Mensaje que describe cambios"
+
+git push origin nombre-rama
+
+git push origin nombre-rama -f
+
+Para clonar un repositorio:
+git clone https-del-repo
