@@ -1767,6 +1767,9 @@
       "AppGimnasio.App.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
         "compile": {
           "bin/placeholder/AppGimnasio.App.Dominio.dll": {}
         },
