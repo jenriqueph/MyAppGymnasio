@@ -11,6 +11,7 @@ namespace AppGimnasio.App.Persistencia
         public DbSet<Mensualidad> Mensualidades { get; set; }
         public DbSet<Persona> Personas { get; set; }
         public DbSet<Rutina> Rutinas { get; set; }
+        
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
