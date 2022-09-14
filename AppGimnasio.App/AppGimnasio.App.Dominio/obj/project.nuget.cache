@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L7VmpghoZww/mymVIURNY3RYfPMpUFBNYzd5EVDOz42tSKowLIGViMWh0YsNcKzXAG+Gi9t8HjGABC4OVxxJ2g==",
+  "dgSpecHash": "OY74Y5rLUkvjGy1ZikR2PCNBX3M7vpy8/QXD1umdUXuPNv9DxHx6B3ovcqFkKxg8qWumaaH8puIrL0LsQjDuMw==",
   "success": true,
-  "projectFilePath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
+  "projectFilePath": "C:\\miappgimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
