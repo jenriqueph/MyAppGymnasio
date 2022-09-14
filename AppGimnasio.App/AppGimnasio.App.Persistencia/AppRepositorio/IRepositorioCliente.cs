@@ -15,6 +15,6 @@ namespace AppGimnasio.App.Persistencia
      Cliente GetCliente(int idCliente);
      Rutina AsignarRutina(int idCliente, int idRutina);
      IEnumerable<Cliente> GetClientePorFiltro(string filtro);
-     IEnumerable<Rutina> GetRutinasCliente(int idCliente);
+    //  IEnumerable<Rutina> GetRutinasCliente(int idCliente);
     }
 }

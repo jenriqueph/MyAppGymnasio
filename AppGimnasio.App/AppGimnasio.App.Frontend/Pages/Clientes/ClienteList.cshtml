@@ -1,0 +1,46 @@
+﻿@page
+@model AppGimnasio.App.Frontend.Pages.Clientes.ClienteListModel
+@{
+    ViewData["Title"] = "Gestionar Clientes";
+}
+<h1>Listado de Clientes</h1>
+<form action="" method="get">
+    <div class="form-group">
+        <p>
+            Cliente: <input type="text" name="filtroBusqueda" id="" <!--asp-for="FiltroBusqueda" -->>
+            <input type="submit" value="Filtrar" />
+        </p>
+    </div>
+</form>
+<div class="row justify-content-center">
+    <div class="col-14">
+        <table class="table table-drak table-hover">
+            <tr>
+                <td>ID</td>
+                <td>TIPO DE IDENTIFICACIÓN</td>
+                <td>NUMERO DE IDENTIFICACIOÓN</td>
+                <td>NOMBRES</td>
+                <td>APELLIDOS</td>
+                <td>DIRECCIÓN</td>
+                <td>E-MAIL</td>
+                <td>CELULAR</td>
+                <td>FECHA DE NACIMIENTO</td>
+                <td>SEXO</td>
+                <td>BLOQUEADO</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td class="table-ligth">
+                    <a class="btn btn-primary table-btn">
+                        <i class="fas fa-info-circule"></i>
+                    </a>
+                </td>
+            </tr>
+
+        </table>
+
+    </div>
+</div>
+<a asp-page=".\ClienteEdit" class="btn btn-primary">Adicionar Cliente</a>

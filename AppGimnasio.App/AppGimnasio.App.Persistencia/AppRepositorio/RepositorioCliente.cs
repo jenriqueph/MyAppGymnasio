@@ -24,7 +24,7 @@ namespace AppGimnasio.App.Persistencia
 
         public void DeleteCliente(int idCliente)        
         {
-            var clienteEncontrado = _appContext.Clientes.FristOrDefault(c => c.Id == idCliente);
+            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(c => c.Id == idCliente);
             if (clienteEncontrado == null)
                 return;
             _appContext.Clientes.Remove(clienteEncontrado);
@@ -56,12 +56,12 @@ namespace AppGimnasio.App.Persistencia
 
         public Cliente GetCliente(int idCliente)
         {
-            return _appContext.Clientes.FristOrDefault(c => c.Id == idCliente);
+            return _appContext.Clientes.FirstOrDefault(c => c.Id == idCliente);
         }
 
         public Cliente UpdateCliente(Cliente cliente)
         {
-            var clienteEncontrado = _appContext.Clientes.FristOrDefault(c => c.Id == cliente.Id);
+            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(c => c.Id == cliente.Id);
             if (clienteEncontrado != null)
             {
                 clienteEncontrado.Nombres = cliente.Nombres;
@@ -72,10 +72,10 @@ namespace AppGimnasio.App.Persistencia
 
         public Rutina AsignarRutina(int idCliente, int idRutina)
         {
-            var clienteEncontrado = _appContext.Clientes.FristOrDefault(c => c.Id == idCliente);
+            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(c => c.Id == idCliente);
             if (clienteEncontrado !=  null)
             {
-                var rutinaEncontrada = _appContext.Rutinas.FristOrDefault(r => r.Id == idRutina);
+                var rutinaEncontrada = _appContext.Rutinas.FirstOrDefault(r => r.Id == idRutina);
                 if (rutinaEncontrada != null)
                 {
                     clienteEncontrado.Rutina = rutinaEncontrada;
@@ -86,12 +86,12 @@ namespace AppGimnasio.App.Persistencia
             return null;
         }
 
-        IEnumerable<Rutina> IRepositorioCliente.GetRutinasCliente(int idCliente)
-        {
-            var cliente = _appContext.Clientes.Where(c => c.Id == idCliente)
-                                                .Include(c => c.Rutinas)
-                                                .FristOrDefault();
-            return cliente.Rutinas;
-        }
+        // IEnumerable<Rutina> IRepositorioCliente.GetRutinasCliente(int idCliente)
+        // {
+        //     var cliente = _appContext.Clientes.Where(c => c.Id == idCliente)
+        //                                          .Include(c => c.Ejercicio1)
+        //                                          .FirstOrDefault();
+        //     return cliente.Rutinas;
+        // }
     }
 }
