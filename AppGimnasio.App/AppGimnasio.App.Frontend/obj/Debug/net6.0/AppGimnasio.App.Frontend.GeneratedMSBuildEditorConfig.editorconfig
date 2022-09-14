@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\MyAppGimnasio\AppGimnasio.App\AppGimnasio.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/MyAppGimnasio/AppGimnasio.App/AppGimnasio.App.Frontend/Pages/Clientes/ClienteDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcQ2xpZW50ZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyAppGimnasio/AppGimnasio.App/AppGimnasio.App.Frontend/Pages/Clientes/ClienteEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcQ2xpZW50ZUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyAppGimnasio/AppGimnasio.App/AppGimnasio.App.Frontend/Pages/Clientes/ClienteList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcQ2xpZW50ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/MyAppGimnasio/AppGimnasio.App/AppGimnasio.App.Frontend/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
