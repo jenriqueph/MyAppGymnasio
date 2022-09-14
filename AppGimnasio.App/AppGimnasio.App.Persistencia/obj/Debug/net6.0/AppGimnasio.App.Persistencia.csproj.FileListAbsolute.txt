@@ -15,3 +15,5 @@ C:\MyAppGimnasio\AppGimnasio.App\AppGimnasio.App.Persistencia\obj\Debug\net6.0\r
 C:\MyAppGimnasio\AppGimnasio.App\AppGimnasio.App.Persistencia\obj\Debug\net6.0\AppGimnasio.App.Persistencia.pdb
 C:\MyAppGimnasio\AppGimnasio.App\AppGimnasio.App.Persistencia\obj\Debug\net6.0\AppGimnasio.App.Persistencia.genruntimeconfig.cache
 C:\MyAppGimnasio\AppGimnasio.App\AppGimnasio.App.Persistencia\obj\Debug\net6.0\ref\AppGimnasio.App.Persistencia.dll
+C:\miappgimnasio\MyAppGymnasio\AppGimnasio.App\AppGimnasio.App.Persistencia\obj\Debug\net6.0\AppGimnasio.App.Persistencia.dll
+C:\miappgimnasio\MyAppGymnasio\AppGimnasio.App\AppGimnasio.App.Persistencia\obj\Debug\net6.0\AppGimnasio.App.Persistencia.pdb
