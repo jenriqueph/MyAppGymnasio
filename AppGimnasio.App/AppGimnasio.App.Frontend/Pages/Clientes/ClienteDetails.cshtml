@@ -1,4 +1,9 @@
 ﻿@page
 @model AppGimnasio.App.Frontend.Pages.Clientes.ClienteDetailsModel
 @{
+    ViewData["Title"] = "Detalle del cliente";
 }
+<div class="body-2">
+    <h1 class="text-center">@ViewData["Title"]</h1> <br>
+</div>
+<a asp-page=".\ClienteList" class="btn btn-success">Regresar</a>
