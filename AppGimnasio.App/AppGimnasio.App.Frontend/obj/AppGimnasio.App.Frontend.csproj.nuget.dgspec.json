@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\AppGimnasio.App.Frontend.csproj": {}
+    "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\AppGimnasio.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {
+    "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
         "projectName": "AppGimnasio.App.Dominio",
-        "projectPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\DesarrolloSofware\\.nuget\\packages\\",
-        "outputPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\obj\\",
+        "projectPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\jenri\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DesarrolloSofware\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jenri\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -59,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\AppGimnasio.App.Frontend.csproj": {
+    "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\AppGimnasio.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\AppGimnasio.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\AppGimnasio.App.Frontend.csproj",
         "projectName": "AppGimnasio.App.Frontend",
-        "projectPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\AppGimnasio.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\DesarrolloSofware\\.nuget\\packages\\",
-        "outputPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\obj\\",
+        "projectPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\AppGimnasio.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\jenri\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DesarrolloSofware\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jenri\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -85,11 +85,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {
-                "projectPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj"
+              "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {
+                "projectPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj"
               },
-              "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj": {
-                "projectPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj"
+              "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj": {
+                "projectPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj"
               }
             }
           }
@@ -144,21 +144,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj": {
+    "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj",
         "projectName": "AppGimnasio.App.Persistencia",
-        "projectPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\DesarrolloSofware\\.nuget\\packages\\",
-        "outputPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\jenri\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DesarrolloSofware\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jenri\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -170,8 +170,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {
-                "projectPath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj"
+              "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {
+                "projectPath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj"
               }
             }
           }
@@ -223,7 +223,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
