@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pyFdpgVU19e6uk8AhetHwHAy4MNCGyZYEfcQ+Qww9wRetshBYs/5xzQNflWyoyuHG2frVuK9/ijCcBFftmE+mA==",
+=======
+  "dgSpecHash": "n3eFI5HDwjkSkt2ek3wS+hMBPYz02n+f9SBZ6s58kIWAYwMLgrHKQzXY4hPXp5+TTmsPhg1przT3b5dXlOnU0Q==",
+>>>>>>> 32706d1b552d177077311d7eee346fb92753c1b3
   "success": true,
   "projectFilePath": "C:\\miappgimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Persistencia\\AppGimnasio.App.Persistencia.csproj",
   "expectedPackageFiles": [
