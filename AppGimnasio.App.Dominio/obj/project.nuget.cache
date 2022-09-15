@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TEs/HuM2+Vq4RE6caWmHDwGwLrcs42Ywmou/EM8qadA+acgiqtkGnSIYtd0dH//FmGPiWiOayip2k+jHiktLow==",
+  "success": true,
+  "projectFilePath": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jenri\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
