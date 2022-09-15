@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\miappgimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {}
+    "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\miappgimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {
+    "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\miappgimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
         "projectName": "AppGimnasio.App.Dominio",
-        "projectPath": "C:\\miappgimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\RAUL\\.nuget\\packages\\",
-        "outputPath": "C:\\miappgimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RAUL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,9 +36,6 @@
       },
       "frameworks": {
         "net6.0": {
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
-=======
           "targetAlias": "net6.0",
           "dependencies": {
             "System.ComponentModel.Annotations": {
@@ -61,8 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
->>>>>>> 32706d1b552d177077311d7eee346fb92753c1b3
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
