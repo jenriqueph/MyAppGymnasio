@@ -1,6 +1,14 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "DkfoCICw3AwESq6czF3x7GTJToo2Y8MnbBMSp1c3+Fk=",
+=======
+<<<<<<< HEAD
+  "Hash": "Kz3I+WdPUhML+zwJa52CQhQZH4CmNMqL9xwNEiYCbpY=",
+=======
+  "Hash": "LzxJHG65whtx/K7l3UhSk1UkFXgSBHlxGcz8Coqghwg=",
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
+>>>>>>> fe1e78cf2f2265351df344f116799a25745d75a7
   "Source": "AppGimnasio.App.Frontend",
   "BasePath": "_content/AppGimnasio.App.Frontend",
   "Mode": "Default",
@@ -85,7 +93,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Cliente.png",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Cuenta.png",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Cliente.png",
+>>>>>>> fe1e78cf2f2265351df344f116799a25745d75a7
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
@@ -105,7 +123,12 @@
       "Identity": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Cuenta.png",
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
+>>>>>>> fe1e78cf2f2265351df344f116799a25745d75a7
       "BasePath": "_content/AppGimnasio.App.Frontend",
       "RelativePath": "img/Avatar-Cuenta.png",
       "AssetKind": "All",
@@ -136,7 +159,17 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar-Gimnasio.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-HomePage.png",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Home.jpg",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-HomePage.png",
+>>>>>>> fe1e78cf2f2265351df344f116799a25745d75a7
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
@@ -224,7 +257,12 @@
       "Identity": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Home.jpg",
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
+>>>>>>> fe1e78cf2f2265351df344f116799a25745d75a7
       "BasePath": "_content/AppGimnasio.App.Frontend",
       "RelativePath": "img/Home.jpg",
       "AssetKind": "All",
@@ -238,7 +276,17 @@
       "OriginalItemSpec": "wwwroot\\img\\Home.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\MenuAdministrador.jpg",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\js\\site.js",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\MenuAdministrador.jpg",
+>>>>>>> fe1e78cf2f2265351df344f116799a25745d75a7
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
@@ -258,7 +306,12 @@
       "Identity": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\js\\site.js",
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\HP\\Desktop\\gimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
+>>>>>>> fe1e78cf2f2265351df344f116799a25745d75a7
       "BasePath": "_content/AppGimnasio.App.Frontend",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

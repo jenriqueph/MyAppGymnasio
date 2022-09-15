@@ -39,6 +39,7 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/HP/Desktop/gimnasio/MyAppGymnasio/AppGimnasio.App/AppGimnasio.App.Frontend/Pages/Mensualidades/ConsultarM.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVuc3VhbGlkYWRlc1xDb25zdWx0YXJNLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -68,6 +69,16 @@ build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudUFkbWluaXN0cmFkb3IuY3No
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HP/Desktop/gimnasio/MyAppGymnasio/AppGimnasio.App/AppGimnasio.App.Frontend/Pages/Privacy.cshtml]
+=======
+<<<<<<< HEAD
+=======
+[C:/Desarrollo de Software/Proyectos/MyAppGymnasio/AppGimnasio.App/AppGimnasio.App.Frontend/Pages/MenuAdministrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudUFkbWluaXN0cmFkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
+[C:/Desarrollo de Software/Proyectos/MyAppGymnasio/AppGimnasio.App/AppGimnasio.App.Frontend/Pages/Privacy.cshtml]
+>>>>>>> fe1e78cf2f2265351df344f116799a25745d75a7
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
