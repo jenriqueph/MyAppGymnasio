@@ -1,17 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "OY74Y5rLUkvjGy1ZikR2PCNBX3M7vpy8/QXD1umdUXuPNv9DxHx6B3ovcqFkKxg8qWumaaH8puIrL0LsQjDuMw==",
+  "dgSpecHash": "s/m+bYxg7Yo2M46cA1v1mSiS//RyXPN5uJG5F2GOgejAi02Slxj3Jjb1n4YI/mUp9+UycywNz9qrg2QEjyvxwg==",
   "success": true,
-  "projectFilePath": "C:\\miappgimnasio\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
-  "expectedPackageFiles": [],
-=======
-  "dgSpecHash": "Dyx26oy3QKMXAGRJlzHZnMFprnTTMqqcOT7LhL587puh0leBM1I3hxm56UX43CQAOxdygsdsxwiUCPvq0zUtVg==",
-  "success": true,
-  "projectFilePath": "C:\\MyAppGimnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\appmisontic\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\AppGimnasio.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DesarrolloSofware\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
->>>>>>> 32706d1b552d177077311d7eee346fb92753c1b3
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\HP\\Desktop\\appmisontic\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
