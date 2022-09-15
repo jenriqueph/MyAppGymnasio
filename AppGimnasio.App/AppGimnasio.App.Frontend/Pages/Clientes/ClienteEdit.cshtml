@@ -4,6 +4,15 @@
     ViewData["Title"] = "Editar cliente";
 }
 <div class="body-2">
-    <h1 class="text-center">@ViewData["Title"]</h1> <br>
+    <h2 class="text-center">@ViewData["Title"]</h2> <br>
+    <form action="" method="post">
+      <input type="hidden" name="" asp-for="Cliente.Id"/>
+      <div class="form-group">
+        <label asp-for="Cliente.NumeroIdentificacion"></label>
+        <input asp-for="Cliente.NumeroIdentificacion" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.NumeroIdentificacion"></span>
+      </div>
+      <button type="submit" class="btn btn-primary">Grabar</button>
+    </form>
 </div>
 <a asp-page=".\ClienteList" class="btn btn-success">Regresar</a>
