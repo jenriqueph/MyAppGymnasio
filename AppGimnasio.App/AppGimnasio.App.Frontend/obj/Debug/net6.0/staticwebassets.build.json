@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "Kz3I+WdPUhML+zwJa52CQhQZH4CmNMqL9xwNEiYCbpY=",
+=======
+  "Hash": "LzxJHG65whtx/K7l3UhSk1UkFXgSBHlxGcz8Coqghwg=",
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
   "Source": "AppGimnasio.App.Frontend",
   "BasePath": "_content/AppGimnasio.App.Frontend",
   "Mode": "Default",
@@ -85,10 +89,34 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Cuenta.png",
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Cliente.png",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/AppGimnasio.App.Frontend",
+      "RelativePath": "img/Avatar-Cliente.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avatar-Cliente.png"
+    },
+    {
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Cuenta.png",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
       "BasePath": "_content/AppGimnasio.App.Frontend",
       "RelativePath": "img/Avatar-Cuenta.png",
       "AssetKind": "All",
@@ -119,10 +147,102 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar-Gimnasio.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Home.jpg",
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-HomePage.png",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/AppGimnasio.App.Frontend",
+      "RelativePath": "img/Avatar-HomePage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avatar-HomePage.png"
+    },
+    {
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Ingreso.png",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/AppGimnasio.App.Frontend",
+      "RelativePath": "img/Avatar-Ingreso.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avatar-Ingreso.png"
+    },
+    {
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Login.jpg",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/AppGimnasio.App.Frontend",
+      "RelativePath": "img/Avatar-Login.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avatar-Login.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Mensualidad.png",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/AppGimnasio.App.Frontend",
+      "RelativePath": "img/Avatar-Mensualidad.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avatar-Mensualidad.png"
+    },
+    {
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Avatar-Rutina.png",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/AppGimnasio.App.Frontend",
+      "RelativePath": "img/Avatar-Rutina.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avatar-Rutina.png"
+    },
+    {
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\Home.jpg",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
       "BasePath": "_content/AppGimnasio.App.Frontend",
       "RelativePath": "img/Home.jpg",
       "AssetKind": "All",
@@ -136,10 +256,34 @@
       "OriginalItemSpec": "wwwroot\\img\\Home.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\js\\site.js",
       "SourceId": "AppGimnasio.App.Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+=======
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\img\\MenuAdministrador.jpg",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/AppGimnasio.App.Frontend",
+      "RelativePath": "img/MenuAdministrador.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\MenuAdministrador.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\js\\site.js",
+      "SourceId": "AppGimnasio.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo de Software\\Proyectos\\MyAppGymnasio\\AppGimnasio.App\\AppGimnasio.App.Frontend\\wwwroot\\",
+>>>>>>> 2a2b4d282b9db44369d9e114f673605f49d18e30
       "BasePath": "_content/AppGimnasio.App.Frontend",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

@@ -1,0 +1,93 @@
+@page
+@model AppGimnasio.App.Frontend.Pages.Mensualidades.ConsultarM
+@{
+    ViewData["Title"] = "Consultar Pago";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<!-- Se crea  la  forma . -->
+ <form action="/my-handling-form-page" method="post">
+ <!-- se  crea las  divisiones de los  campos . -->
+     <div class="form-group">
+        <label for="remolque">Nombre del Cliente </label>
+        <input type="text" name="inputname" value="Pepito Perez" disabled>
+    </div> <br>                                 
+        
+            <div class="form-group">
+               <h1>Pagos Realizados</h1>
+                                                <table>
+                                                <tr>
+                                                    <th scope="col">Estado</th>
+                                                    <th scope="col">Mes</th>
+                                                    <th scope="col">Fecha de  pago</th>
+                                                    <th scope="col">total</th>
+                                                </tr>
+                                                <br>
+                                                <tr>
+                                                    <td>Cancelado </td>
+                                                    <td>Mayo</td>
+                                                    <td>19/05/2022</td>
+                                                    <td>200.000</td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>cancelado</td>
+                                                    <td>Junio</td>
+                                                    <td>17/06/2022</td>
+                                                    <td>200.000</td>
+                                                </tr>
+                                                    <tr>
+                                                    <td>cancelado</td>
+                                                    <td>Juio</td>
+                                                    <td>17/07/2022</td>
+                                                    <td>200.000</td>
+                                                </tr>
+                                                </tr>
+                                                    <tr>
+                                                    <td style="background-color: red;">pendiente </td>
+                                                    <td>Agosto</td>
+                                                    <td>21/08/2022</td>
+                                                    <td>0</td>
+                                                </tr>                                         
+
+                                                <tr>
+                                                    <th scope="row">TOTAL</th>
+                                                    <td>-</td>
+                                                    <td>4</td>
+                                                    <td><strong>600.000</strong></td>
+                                                </tr>
+                                                </table>      
+            </div><br> 
+                <div class="form-group">
+                    <label for="remolque">Saldo Pendiente </label>
+                    <input type="text" name="remolque" id="remolque" class="form-control" required>
+            </div><br>
+                    
+            
+                <div class="form-group">
+                    <!-- se  crea los  botones que vamos a  utilizar . -->
+                    <button onclick="location.href='ControlM'"  class="btn btn-outline-warning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Regresar</font></font></button>
+                       
+            </div> 
+            
+</form>
+
+
+ <style>
+form {
+    /* Centrar el formulario en la página */
+  margin: 0 auto;
+  width: 400px;
+  /* Esquema del formulario */
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+}
+
+button {
+  /* Este margen adicional representa aproximadamente el mismo espacio que el espacio
+     entre las etiquetas y sus campos de texto */
+  margin-left: .5em;
+}
+ </style>

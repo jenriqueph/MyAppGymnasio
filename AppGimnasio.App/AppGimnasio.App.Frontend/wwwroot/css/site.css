@@ -1,10 +1,10 @@
 html {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 @media (min-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
@@ -15,4 +15,15 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: black;
+}
+
+.body-2 {
+  background-color: white;
+}
+
+.text-tabla {
+  text-align: center;
+  font-size: small;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
