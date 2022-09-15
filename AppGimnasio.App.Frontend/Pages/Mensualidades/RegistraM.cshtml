@@ -1,0 +1,81 @@
+@page
+@model AppGimnasio.App.Frontend.Pages.Mensualidades.RegistraM
+@{
+    ViewData["Title"] = "Registra Pagos";
+}
+<div class="body-2">
+    <h1>@ViewData["Title"]</h1>
+
+    <!-- Se crea  la  forma . -->
+    <form action="/my-handling-form-page" method="post">
+        <!-- se  crea las  divisiones de los  campos . -->
+        <div class="form-group">
+            <label for="remolque">Nombre del Cliente </label>
+            <input type="text" name="inputname" value="Pepito Perez" disabled>
+        </div> <br>
+        <div class="form-group">
+            <label for="remolque">Estado del Cliente </label>
+            <!-- se  crea un combobox para selecionar una opcion . -->
+            <select name="Mes" id="Estado">
+                <option value="ene">Activo</option>
+                <option value="feb">Inactivo</option>
+            </select> </select>
+        </div><br>
+        <div class="form-group">
+            <label for="remolque">Mes a cancelar <br> </label>
+            <select name="Mes" id="Mes">
+                <option value="ene">Enero</option>
+                <option value="feb">Febrero</option>
+                <option value="mar">Marzo</option>
+                <option value="abr">Abril</option>
+                <option value="may">Mayo</option>
+                <option value="jun">Junio</option>
+                <option value="jul">Julio</option>
+                <option value="ago">Agosto</option>
+                <option value="sep">Septiembre</option>
+                <option value="oct">Octubre</option>
+                <option value="nov">Noviembre</option>
+                <option value="dic">Diciembre</option>
+            </select>
+        </div><br>
+        <div class="form-group">
+            <label for="remolque">Cantidad a pagar </label>
+            <input type="text" name="remolque" id="remolque" class="form-control" required>
+        </div><br>
+        <div class="form-group">
+            <label for="fecha">Fecha de Pago</label>
+            <input type="date" name="fecha" id="fecha" class="form-control" required>
+        </div><br>
+        <div class="form-group">
+            <!-- se  crea los  botones que vamos a  utilizar . -->
+            <button onclick="location.href='ControlM'" class="btn btn-outline-warning">
+                <font style="vertical-align: inherit;">
+                    <font style="vertical-align: inherit;">Regresar</font>
+                </font>
+            </button>
+            <button type="button" class="btn btn-outline-danger">
+                <font style="vertical-align: inherit;">
+                    <font style="vertical-align: inherit;">Guardar Cambios</font>
+                </font>
+            </button>
+        </div>
+    </form>
+</div>
+
+<style>
+    form {
+        /* Centrar el formulario en la página */
+        margin: 0 auto;
+        width: 350px;
+        /* Esquema del formulario */
+        padding: 1em;
+        border: 1px solid #CCC;
+        border-radius: 1em;
+    }
+
+    button {
+        /* Este margen adicional representa aproximadamente el mismo espacio que el espacio
+     entre las etiquetas y sus campos de texto */
+        margin-left: .5em;
+    }
+</style>
